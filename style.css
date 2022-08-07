@@ -1,0 +1,147 @@
+body {
+  background-color: rgb(0, 0, 0);
+  margin: 10px;
+  background-image: url(car.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.title{font-size:100px;color:cyan ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 3px 3px 5px rgb(236, 223, 249);}
+
+nav{
+  text-align: center;
+  
+  margin: 15px;
+  margin-left: 0
+  ;margin-right: 0;
+  padding: 20px;
+  background-color: black;
+  border: 2px solid;
+  border-radius:3px;
+  border-color: rgb(187, 0, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:hover{color: blue ;
+  transition-duration: 1s;}
+
+
+#about{background-color: rgba(240, 255, 255, 0)}
+
+
+#work{background-color: rgba(240, 255, 255, 0)}
+
+
+#a{text-align: center;
+  background-color: rgba(137, 43, 226, 0.225);}
+
+a{color: rgb(255, 255, 255);
+  text-decoration: none;
+  margin-left:40px;
+  font-size: 30px;}
+
+.image{border: 10px solid;
+border-radius: 7px;
+border-color: rgb(0, 0, 0);margin: 80px;}
+
+#about{text-align: center;}
+
+
+header{background-image: url(jett.jpg);
+  background-size: cover;background-repeat:no-repeat ;}
+main{background-image: url(https://wallpaperaccess.com/full/2051606.jpg);
+background-size: contain;}
+
+
+
+header h2 {color: rgb(155, 47, 255);text-shadow: 2px 2px 5px rgb(255, 0, 0);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 10px rgba(0, 13, 133, 0.879) solid; background-color: rgba(0, 0, 0, 0.699);
+}
+table, th, td {
+  border: 1px solid;
+}
+table {
+  color: rgb(159, 69, 255); width: 100%;margin-top: 100px;margin-bottom: 100px;
+}
+
+th{height: 40px;
+color: aqua;text-decoration: double;}
+
+tr:hover {background-color: rgba(140, 0, 255, 0.384);transition-duration: 1s} name
+
+#hehe{font-size: 30px;
+  text-align: left;
+color: rgba(45, 122, 255, 0.727);
+font-family: 'Courier New', Courier, monospace;}
+
+#work h2{color: blueviolet;font-family: 'Courier New', Courier, monospace;font-weight: 600;margin-left:30px ;}
+
+
+.pic{border: 5px solid burlywood;border-radius: 10px; margin-right: auto;margin-left: auto;display: block;}
+.pic:hover{color: rgba(111, 0, 255, 0.852) ;}
+#skill{color: antiquewhite;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+;}
+
+#videos{text-align: center;background-color: rgba(137, 43, 226, 0.123);margin-top: 50px;}
+
+h1{color: aqua;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+
+input[type=text], select {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgba(0, 255, 242, 0.425);
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px rgb(213, 129, 255)
+}
+#lname{ width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgba(0, 255, 242, 0.425);
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px rgb(213, 129, 255); ;}
+  
+input[type=submit] {
+  width:10%;
+  background-color: #6a00ff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  
+}
+
+input[type=submit]:hover {
+  background-color: #4e009c;transition-duration: 0.7s;
+}
+
+div {
+  border-radius:10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.yo{color: aqua;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+footer{text-align: center;}
+
+#resume{background-color:rgba(165, 42, 42, 0)  ;}
+
+select{background-color: rgb(255, 255, 255);color: rgb(65, 3, 61);}
+
+#copy{color: #f2f2f2;
+text-indent: 11px;}
+
